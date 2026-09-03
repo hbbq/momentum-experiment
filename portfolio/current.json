@@ -1,0 +1,10 @@
+{
+  "strategy": "Momentum v1.0",
+  "status": "not_started",
+  "start_value_sek": 100000,
+  "portfolio_value_sek": 100000,
+  "cash_sek": 100000,
+  "positions": [],
+  "last_signal_date": null,
+  "last_execution_date": null
+}
